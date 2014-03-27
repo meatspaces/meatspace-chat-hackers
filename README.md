@@ -15,3 +15,4 @@ Cool things Meatspacers have made that you can use with your Meatspace Chat expe
 * [Meatspace Enteprise Edition](https://github.com/mikemaccana/meatspace-enterprise-edition) Desktop alerts when your name is mentioned on Meatspace.
 * [Meatspac Minus Meatspac](http://tec27.com/meatspac-minus-meatspac.html): filter Meatspace down to a single user in the style of [Garfield minus Garfield](http://garfieldminusgarfield.net/).  [repo](http://github.com/tec27/meatspac-minus-meatspac)
 * [meatchat chrome app](https://github.com/b3n0n/meatchat-chrome): chrome app for meatchat
+* [Ansible Meatspace Chat](https://galaxy.ansible.com/list#/roles/539): Orchestrate your own Meatspace Chat instance with Ansible for great chatterings
