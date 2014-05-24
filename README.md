@@ -18,3 +18,4 @@ Cool things Meatspacers have made that you can use with your Meatspace Chat expe
 * [Ansible Meatspace Chat](https://galaxy.ansible.com/list#/roles/539): Orchestrate your own Meatspace Chat instance with Ansible for great chatterings
 * [Whos that meat?](http://toddhpage.com/whosthatmeat): bookmarklet to add a color square to meats so you can determine which meat is showing something! [repo](https://github.com/thethp/whosthatmeat)
 * [livepreview!](http://kinduff.com/flp/): bookmarklet to add a live preview of your snapshot with text!
+* [meatbriefs](http://meatbriefs.com): daily summaries of the last day's meatspace happenings
