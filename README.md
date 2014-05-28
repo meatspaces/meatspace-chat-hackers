@@ -20,3 +20,4 @@ Cool things Meatspacers have made that you can use with your Meatspace Chat expe
 * [livepreview!](http://kinduff.com/flp/): bookmarklet to add a live preview of your snapshot with text!
 * [meatbriefs](http://meatbriefs.com): daily summaries of the last day's meatspace happenings
 * [Faceday](http://butt.es/faceday): bookmarklet to take you to the right facespac.es day! [repo](https://github.com/lauradegroot/faceday)
+* [Meat Monsters](http://taotetek.github.io/meatmonsters/): Bots for Meatspace
