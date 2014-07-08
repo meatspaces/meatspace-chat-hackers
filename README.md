@@ -22,3 +22,4 @@ Cool things Meatspacers have made that you can use with your Meatspace Chat expe
 * [Faceday](http://butt.es/faceday): bookmarklet to take you to the right facespac.es day! [repo](https://github.com/lauradegroot/faceday)
 * [Meat Monsters](http://taotetek.github.io/meatmonsters/): Bots for Meatspace
 * [Meatmaps](http://meatmaps.com): A worldwide map of meats hometowns. [repo](https://github.com/jordanwright/Meatmaps) 
+* [MeatGIFControl and MeatVideoHider](https://github.com/danielsmith-eu/meatgifcontrol): Bookmarklets to start/stop GIFs and to autohide/show the local video preview (in order to preserve laptop battery).
