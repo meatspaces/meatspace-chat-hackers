@@ -24,3 +24,4 @@ Cool things Meatspacers have made that you can use with your Meatspace Chat expe
 * [Meatmaps](http://meatmaps.com): A worldwide map of meats hometowns. [repo](https://github.com/jordanwright/Meatmaps) 
 * [MeatGIFControl and MeatVideoHider](https://github.com/danielsmith-eu/meatgifcontrol): Bookmarklets to start/stop GIFs and to autohide/show the local video preview (in order to preserve laptop battery).
 * [Meatspackles](https://github.com/omni5cience/meatspackles): Javascript Bots for Meatspace in the style of [Meat Monsters](http://taotetek.github.io/meatmonsters/)
+* [Who's that meat? (2)](https://danielsmith.eu/whosthatmeat/): Who's that meat? updated for the new meatspace.
